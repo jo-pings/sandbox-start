@@ -1,3 +1,7 @@
 # this is my first file!
 
-HELLO!
+Hi there!
+
+## Getting started
+
+Right now i'm practicing commits
